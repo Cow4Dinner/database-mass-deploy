@@ -1,0 +1,39 @@
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseTools.dll
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseTools.pdb
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csprojResolveAssemblyReference.cache
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\MainWindow.baml
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\MainWindow.g.cs
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\ProgressBar.g.cs
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\App.g.cs
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager_MarkupCompile.cache
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager_MarkupCompile.lref
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\ProgressBar.baml
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.g.resources
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.Cache
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\spierro\Desktop\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseTools.dll
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseTools.pdb
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csprojResolveAssemblyReference.cache
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\MainWindow.baml
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\MainWindow.g.cs
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\ProgressBar.g.cs
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\App.g.cs
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager_MarkupCompile.cache
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager_MarkupCompile.lref
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\ProgressBar.baml
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.g.resources
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\spierro\Desktop\ScottPierro\Showare Toolbelt\projects\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.Cache
+C:\Users\Scott\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Scott\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Scott\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
