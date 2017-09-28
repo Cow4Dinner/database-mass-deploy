@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="MultipleDatabaseManager.DatabaseSettingsSubform"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MultipleDatabaseManager"
+             xmlns:scintillaNet="clr-namespace:ScintillaNET;assembly=ScintillaNET"
+             mc:Ignorable="d" Width="500" Height="400" VerticalAlignment="Top">
+    <StackPanel Orientation="Vertical">
+        <Grid Height="110" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="117*"/>
+                <ColumnDefinition Width="383*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="ServerLabel" Content="Server" HorizontalAlignment="Left"  VerticalAlignment="Top" Grid.Column="0" Grid.Row="0" Height="30" Width="97"/>
+            <TextBox x:Name="ServerTextbox" HorizontalAlignment="Left" Height="24" VerticalAlignment="Center" Width="200" Grid.Column="1" Grid.Row="0" Margin="0,2"/>
+
+            <Label x:Name="NameLabel" Content="Database Name" HorizontalAlignment="Left"  VerticalAlignment="Top" Grid.Column="0" Grid.Row="1" Height="30" Width="97"/>
+            <TextBox x:Name="NameTextbox" HorizontalAlignment="Left" Height="24" VerticalAlignment="Center" Width="200" Grid.Column="1" Grid.Row="1" Margin="0,2"/>
+
+            <Label x:Name="UsernameLabel" Content="Username" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="0" Grid.Row="2" Height="30" Width="97"/>
+            <TextBox x:Name="UsernameTextbox" HorizontalAlignment="Left" Height="24" VerticalAlignment="Center" Width="200" Grid.Column="1" Grid.Row="2" Margin="0,2"/>
+
+            <Label x:Name="PasswordLabel" Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="0" Grid.Row="3" Height="30" Width="97"/>
+            <TextBox x:Name="PasswordTextbox" HorizontalAlignment="Left" Height="24" VerticalAlignment="Center" Width="200" Grid.Column="1" Grid.Row="3" Margin="0,2"/>
+        </Grid>
+        <WindowsFormsHost Height="250" Margin="0,5">
+            <scintillaNet:Scintilla x:Name="SourceSql"/>
+        </WindowsFormsHost>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="196,10">
+            <Button x:Name="Load" Content="Load" Click="load_Click" Margin="5,0"/>
+            <Button x:Name="Save" Content="Save" Click="save_Click" Margin="5,0"/>
+            <Button x:Name="Test" Content="Test" Click="test_Click" Margin="5,0"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

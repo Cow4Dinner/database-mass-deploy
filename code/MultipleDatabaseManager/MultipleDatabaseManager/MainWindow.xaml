@@ -1,0 +1,48 @@
+﻿<Window x:Class="MultipleDatabaseManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultipleDatabaseManager"
+        mc:Ignorable="d"
+        Title="Multiple Database Manager" Height="600" Width="800">
+    <Grid>
+        <TabControl x:Name="mainTabControl" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <TabItem Name="ObjectVariationsTab" Header="Object Variations">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <Grid Height="50">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Label x:Name="label" Content="Source Object&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="25"/>
+                            <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="94,13,0,0" VerticalAlignment="Top" Width="285"/>
+                            <Button x:Name="button" Content="Check Variations" HorizontalAlignment="Left" Margin="384,13,0,0" VerticalAlignment="Top" Width="110" Height="22"/>
+                        </Grid>
+                        <DataGrid x:Name="dataGrid" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MinHeight="100" MinWidth="4"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem Name="MassDeployObjectTab" Header="Mass Deploy Object">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Name="MassExecuteTab" Header="Mass Execute SQL">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Name="SettingsTab" FontFamily="pack://application:,,,/res/fonts/#FontAwesome" Header="&#xf013;">
+                <StackPanel >
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="435" Margin="133,0,218,0">
+                        <Label  VerticalAlignment="Center" HorizontalAlignment="Center" Content="Source Type" Height="22" Margin="10,3,10,6" Width="91"/>
+                        <ComboBox x:Name="SourceTypeComboBox" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,6,10,7" Width="196" Height="18" SelectionChanged="SourceChanged" />
+                    </StackPanel>
+                    <Frame x:Name="SettingsSubform" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" DataContext="MyPageInformation" Source="{Binding}" NavigationUIVisibility="Hidden" Height="505"/>
+
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
